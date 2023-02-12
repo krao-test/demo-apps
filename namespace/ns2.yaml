@@ -3,3 +3,6 @@ kind: Namespace
 metadata:
   creationTimestamp: null
   name: test5
+  labels:
+     owner: km
+     CostCenter: km-dev
